@@ -10,3 +10,9 @@ h1 {
 .top {
 	background-color:lightblue;
 }
+#link {
+	color: #FF0000;
+}
+#link:hover {
+	color: #00FF00;
+}
